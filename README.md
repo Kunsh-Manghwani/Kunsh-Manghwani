@@ -10,10 +10,10 @@
 🚀 I’m a passionate backend engineer focused on building scalable systems, data pipelines, and automation tools.
 
 - 🧑‍💻 SWE @ Atlassian | Built 50+ Docker images, CI/CD pipelines, CLI tools, vulnerability automation
-- 🔧 Ex-Team Lead @ Trailytics | Designed distributed crawlers, processed 5M+ records/day
+- 🔧 Ex-Team Lead @ Trailytics | Designed distributed crawlers using Scrapy, Selenium (5M+ records/day)
 - ⚡ Love solving DSA – 1300+ problems on LeetCode, 1100+ on GFG
 - 🔭 Currently exploring AI tools, low-latency APIs, and systems design
-- 💬 Ask me about Python, Golang, CI/CD, scraping, system design
+- 💬 Ask me about Python, Golang, Java, CI/CD, scraping, shell scripting, system design
 - 📫 Reach me at: [kunshmanghwani9140@gmail.com](mailto:kunshmanghwani9140@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kunsh-manghwani-722193190/) • [LeetCode](https://leetcode.com/user8744WJ/) • [GFG](https://auth.geeksforgeeks.org/user/kunshmanghwani/practice/)
 
@@ -23,9 +23,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-000000?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -42,10 +46,15 @@
 
 ### 🧠 Recent Projects
 
-- 🎬 [Movie Classification with Decision Trees](https://github.com/Kunsh-Manghwani/Movie_Classification-Tree)
-- 🧠 [Object Detection using YOLO](https://github.com/Kunsh-Manghwani/Object-Detection-Using-YOLO)
+- 🧩 [Scalable In-Memory Matchmaking Engine](https://github.com/Kunsh-Manghwani/Scalable-In-Memory-Matchmaking-Engine)  
+  Real-time player matchmaking using Redis & priority-based queuing with fault tolerance, designed for low-latency multiplayer environments.
+
+- 🎬 [Movie Classification with Decision Trees](https://github.com/Kunsh-Manghwani/Movie_Classification-Tree)  
+  ML-based prediction system for Oscar nominations using feature engineering and boosting techniques.
+
+- 🧠 [Object Detection using YOLO](https://github.com/Kunsh-Manghwani/Object-Detection-Using-YOLO)  
+  Real-time object detection using YOLOv3 and OpenCV with bounding box visualization.
 
 ---
 
-_“Clean architecture, clean data, and clean code — that's my mantra.”_
-
+_“All Limitations are Self Imposed — that's my mantra.”_
